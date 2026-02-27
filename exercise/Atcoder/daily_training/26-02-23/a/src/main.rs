@@ -1,9 +1,7 @@
 use std::io;
 
 fn main() {
-    let v = read_line();
-    let _n = v[0];
-    let _m = v[1];
+    let _ = read_line();
     let a = read_line();
     let b = read_line();
     let mut ans = 0;
